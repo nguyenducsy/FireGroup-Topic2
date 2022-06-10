@@ -108,10 +108,10 @@ body {
 }
 
 //responsive
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 426px) {
     .section {
         transition: all 0.3s;
-        max-width: 375px;
+        max-width: 425px;
         background-position: bottom left;
         &__logo {
             margin: $margin-section-mb;
@@ -141,14 +141,13 @@ body {
         padding: 44px 26px;
     }
     .section__form {
-        width: 326px;
+        width: 374px;
         height: 741px;
         left: 26px;
     }
     .extension {
         margin-top: 37px;
         &__left {
-            width: 178px;
             &--btn {
                 padding: 19px 12px 19px 24px;
                 &-img {

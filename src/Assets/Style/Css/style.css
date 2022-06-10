@@ -50,7 +50,6 @@
 .extension__left--text {
   padding: 15px 66px 15px 0px;
   font-size: 16px;
-  line-height: 24px;
 }
 .extension__right {
   height: 56px;
@@ -191,10 +190,10 @@ body {
   color: #FFFFFF;
 }
 
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 426px) {
   .section {
     transition: all 0.3s;
-    max-width: 375px;
+    max-width: 425px;
     background-position: bottom left;
   }
   .section__logo {
@@ -226,16 +225,13 @@ body {
   }
 
   .section__form {
-    width: 326px;
+    width: 374px;
     height: 741px;
     left: 26px;
   }
 
   .extension {
     margin-top: 37px;
-  }
-  .extension__left {
-    width: 178px;
   }
   .extension__left--btn {
     padding: 19px 12px 19px 24px;
