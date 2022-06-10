@@ -78,7 +78,7 @@
 .extension__right--fb:hover,
 .extension__right--ap:hover {
   background: #E9F1FF;
-  color: gray;
+  color: #4285F4;
   transition: all 0.3s;
 }
 
